@@ -36,5 +36,4 @@ document.body.onload= function() {
             document.querySelector('.rr').style.display = "block";
         }, 1500);
     })
-
 }
